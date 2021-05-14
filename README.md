@@ -18,13 +18,13 @@ Welcome to a small hobby project of mine! With a little help I built a sourdough
 
 * Plastic Mason Jar List
 
-![](/Users/ifloreshuerta/Documents/telera/photos/cap.jpeg)
+![](/photos/cap.jpeg)
 
-![sensors](/Users/ifloreshuerta/Documents/telera/photos/sensors.jpeg)
+![sensors](/telera/photos/sensors.jpeg)
 
-![sourdough_contraption](/Users/ifloreshuerta/Documents/telera/photos/sourdough_contraption.jpeg)
+![sourdough_contraption](/photos/sourdough_contraption.jpeg)
 
-![sourdough_in_action](/Users/ifloreshuerta/Documents/telera/photos/sourdough_in_action.jpeg)
+![sourdough_in_action](/photos/sourdough_in_action.jpeg)
 
 ## Running The Code
 
