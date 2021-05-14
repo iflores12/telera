@@ -8,11 +8,11 @@ Welcome to a small hobby project of mine! With a little help I built a sourdough
 
 * Raspberry Pi Case
 
-* [Adafruit VL53L0X]: https://learn.adafruit.com/adafruit-vl53l0x-micro-lidar-distance-sensor-breakout/python-circuitpython
+* [Adafruit VL53L0X](https://learn.adafruit.com/adafruit-vl53l0x-micro-lidar-distance-sensor-breakout/python-circuitpython)
 
-* [Adafruit AHT20]: https://learn.adafruit.com/adafruit-aht20/python-circuitpython
+* [Adafruit AHT20](https://learn.adafruit.com/adafruit-aht20/python-circuitpython)
 
-* [Adafruit SGP30]: https://learn.adafruit.com/adafruit-sgp30-gas-tvoc-eco2-mox-sensor/
+* [Adafruit SGP30](https://learn.adafruit.com/adafruit-sgp30-gas-tvoc-eco2-mox-sensor/)
 
 * Mason Jar
 
@@ -20,7 +20,7 @@ Welcome to a small hobby project of mine! With a little help I built a sourdough
 
 ![](/photos/cap.jpeg)
 
-![sensors](/telera/photos/sensors.jpeg)
+![sensors](/photos/sensors.jpeg)
 
 ![sourdough_contraption](/photos/sourdough_contraption.jpeg)
 
